@@ -571,20 +571,21 @@ body {
       height: 20px;
       margin-top: 10px;
       position: relative;
+      top: 10px;
       margin-right: 0 auto;
       margin-left: 0 auto;
-      padding:0px;
+      padding: 0px;
     }
 
     #header-tabs2{
-      width: 33%;
+      width: 300px;
       height: 20px;
       margin-top: 10px;
       position: relative;
-      top: 30px;
+      top: 0px;
       margin-right: 0 auto;
       margin-left: 0 auto;
-      padding-top: 0px;
+      padding: 0px;
     }
 
     #header_tabs3{
@@ -592,6 +593,7 @@ body {
       height: 20px;
       margin-top: 10px;
       position: relative;
+      top: 10px;
       margin-right: 0 auto;
       margin-left: 0 auto;
       padding: 0px;
